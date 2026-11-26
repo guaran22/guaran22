@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Guaran22</h1>
-<h3 align="center">A passionate frontend developer from North Macedonia</h3>
+<h1 align="left">Hi 👋, I'm Guaran22</h1>
+<h3 align="left">A passionate frontend developer from North Macedonia</h3>
 
 - 🌱 I’m currently learning **Front-end development**
 
