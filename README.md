@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Guaran22</h1>
-<h3 align="left">A passionate frontend developer from North Macedonia</h3>
+<h3 align="left">A passionate 20 year old frontend developer from North Macedonia</h3>
 
 - 🌱 I’m currently learning **Front-end development**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @gukibrate (Discord)</h3>
 <p align="left">
 </p>
 
